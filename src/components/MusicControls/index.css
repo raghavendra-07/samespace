@@ -1,0 +1,45 @@
+.buttons-con{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.button-in-con{
+    border: 0px;
+    border-radius: 0px;
+    background-color: transparent;
+}
+
+.button{
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    border: 0px;
+}
+
+.handles-con{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.prev-btn{
+    border: 0px;
+    border-radius: 0px;
+    background-color: transparent;
+    color: aliceblue;
+}
+
+.nxt-btn{
+    border: 0px;
+    border-radius: 0px;
+    background-color: transparent;
+    color: aliceblue;
+}
+
+.button-1{
+    width: 50px;
+    height: 50px;
+    border-radius: 29px;
+    border: 0px;
+}
+

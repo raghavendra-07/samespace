@@ -1,0 +1,27 @@
+.player-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+    margin-top: 180px;
+}
+
+.player-name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 36px;
+
+}
+
+.player-artist{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(192, 192, 192);
+    font-size: 18px;
+}
+
+.player-cover{
+    width: 500px;
+    height: 500px;
+    border-radius: 12px;
+}
